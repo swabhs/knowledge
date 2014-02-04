@@ -11,6 +11,10 @@
 * 2013-11-26: [Diverse M-Best Solutions in Markov Random Fields] (https://filebox.ece.vt.edu/~dbatra/papers/MBestModes.pdf). 2012. Batra et al. In proc. of Computer Vision–ECCV.
 * 2013-12-03: [A fast and simple algorithm for training neural probabilistic language models] (http://www.stats.ox.ac.uk/~teh/research/compling/MniTeh2012a.pdf). 2012. Mnih and Teh. In proc. of ICML.
 
+
+## papers we want to read
+* 2014-02-11: [Making Tree Kernels practical for Natural Language Learning] (http://acl.ldc.upenn.edu/E/E06/E06-1015.pdf). 2006. Alessandro Moschitti. In proc. of EACL.
+
 ## computational resources
 
 ### allegro
